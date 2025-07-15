@@ -12,6 +12,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/tiagoAH/count.svg" /></p> 
+<p align="center"><img src="https://api.countapi.xyz/hit/tiagoAH/visits?style=flat-square" />
+</p> 
 <br>
 </div>
