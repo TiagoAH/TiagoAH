@@ -10,8 +10,7 @@
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img src="https://shields-io-visitor-counter.vercel.app/tiagoAH.svg" alt="visitor counter"/>
-  </p> 
+ 
+ 
   <br>
 </div> 
