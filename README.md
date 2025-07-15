@@ -11,7 +11,7 @@
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
-    <img src="https://api.countapi.xyz/hit/tiagoAH/visits?&render=badge" alt="Visitor counter badge" />
+    <img src="https://shields-io-visitor-counter.vercel.app/tiagoAH.svg" alt="visitor counter"/>
   </p> 
   <br>
 </div> 
